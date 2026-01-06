@@ -1,0 +1,43 @@
+[
+  {
+    "id": "douro-wine-cruise",
+    "region": "Douro",
+    "title": "Private Douro Wine Cruise",
+    "description": "Sunset sail with curated quintas, onboard sommelier, and riverfront dinner landing.",
+    "idealFor": "Couples, small groups",
+    "duration": "3-5 hours",
+    "priceRange": "From €650",
+    "partnerName": "Curated local partners",
+    "bookingCTA": "Request cruise"
+  },
+  {
+    "id": "algarve-caves",
+    "region": "Algarve",
+    "title": "Benagil & Seacliff Exploration",
+    "description": "Calm-hour boat departure to hidden grottos, sandbars, and sunset swims.",
+    "idealFor": "Families, friends",
+    "duration": "Half day",
+    "priceRange": "From €480",
+    "bookingCTA": "Reserve seats"
+  },
+  {
+    "id": "porto-tasting",
+    "region": "Porto",
+    "title": "Architected Porto Tasting Walk",
+    "description": "Design-led tour through galleries, wine bars, and chef counters in the quiet east side.",
+    "idealFor": "Food lovers, culture seekers",
+    "duration": "2.5 hours",
+    "priceRange": "From €180",
+    "bookingCTA": "Book tasting"
+  },
+  {
+    "id": "norte-nature",
+    "region": "Norte",
+    "title": "Atlantic Coastal Ride",
+    "description": "Guided e-bike route through Apúlia dunes with picnic and ocean plunge.",
+    "idealFor": "Active couples, friends",
+    "duration": "Half day",
+    "priceRange": "From €220",
+    "bookingCTA": "Request ride"
+  }
+]

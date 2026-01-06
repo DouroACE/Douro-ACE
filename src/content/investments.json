@@ -1,0 +1,41 @@
+[
+  {
+    "id": "douro-vineyard-estate",
+    "slug": "douro-vineyard-estate",
+    "name": "Douro Vineyard Estate",
+    "location": "Douro Valley, Portugal",
+    "assetType": "Villa + Vineyard",
+    "status": "available",
+    "investmentThesis": "Flagship riverfront villa with dual revenue streams: premium stays and curated wine experiences. Existing guest demand via ACE network and strong direct repeat bookings.",
+    "useCases": ["Owner escape + hosted stays", "Full-time luxury lodging", "Private events & tastings"],
+    "metrics": {
+      "revenueHistory": "€380k trailing 12 months blended ADR €1,250",
+      "conservativeProjection": "€320k - €360k annualized with 55-60% occupancy",
+      "costRange": "Operating €6.5k-€8.5k/month excluding financing"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "managedByAceAvailable": true
+  },
+  {
+    "id": "porto-east-lofts",
+    "slug": "porto-east-lofts",
+    "name": "Porto East Micro-Lofts",
+    "location": "Porto, Portugal",
+    "assetType": "Micro-loft portfolio",
+    "status": "coming_soon",
+    "investmentThesis": "Four design-forward studio units near Hospital de São João with proven healthcare and academic demand. Lightweight operations with ACE leasing + hospitality overlays.",
+    "useCases": ["Medium-stay furnished rentals", "Hybrid AL with seasonal spikes", "Owner usage"],
+    "metrics": {
+      "conservativeProjection": "€110k - €130k annualized blended revenue",
+      "costRange": "Operating €2k-€3k/month per unit inclusive of ACE management"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "managedByAceAvailable": true
+  }
+]

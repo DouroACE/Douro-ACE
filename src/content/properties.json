@@ -1,0 +1,82 @@
+[
+  {
+    "id": "douro-villa",
+    "slug": "douro-villa",
+    "name": "Douro Signature Villa",
+    "region": "Douro",
+    "city": "Peso da Régua",
+    "country": "Portugal",
+    "type": "Flagship villa",
+    "capacity": 10,
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "highlights": ["Riverfront terraces", "Infinity pool", "Wine library"],
+    "amenities": ["Concierge", "Private pool", "Chef-ready kitchen", "Fireplace lounges", "Outdoor dining", "Fiber wi-fi"],
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505693415763-3ed5e04ba4cd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "descriptionShort": "A riverfront estate crafted for unhurried stays, light-filled dinners, and the best Douro sunsets.",
+    "descriptionLong": "ACE's flagship villa opens onto layered terraces, stone patios, and an infinity edge that blends into the Douro. Interiors combine Portuguese stone with custom furniture, balanced lighting, and hushed technology. Designed for families, founders, and friends seeking a discrete escape.",
+    "bookingLinks": {
+      "airbnb": "https://www.airbnb.com/",
+      "direct": "mailto:stay@ace.pt"
+    },
+    "addOnsAvailable": ["Private chef", "Douro wine program", "Chauffeur", "River cruise"],
+    "featured": true
+  },
+  {
+    "id": "porto-velasquez",
+    "slug": "porto-velasquez",
+    "name": "Porto Velasquez Residence",
+    "region": "Porto",
+    "city": "Porto",
+    "country": "Portugal",
+    "type": "T4 Residence",
+    "capacity": 8,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "highlights": ["City viewpoints", "Curated art", "Heated floors"],
+    "amenities": ["Elevator access", "Chef kitchen", "Workspace", "In-suite laundry", "Balcony", "AC & air quality"],
+    "images": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "descriptionShort": "Light-filled duplex in Praça Velasquez with private living level and tailored amenities for mid-stay guests.",
+    "descriptionLong": "Steps from Porto's cultural east side, this residence mixes custom carpentry, generous glazing, and layered textiles. Ideal for families and workations with silent climate control, acoustic treatment, and ACE concierge on call.",
+    "bookingLinks": {
+      "booking": "https://www.booking.com/",
+      "direct": "mailto:stay@ace.pt"
+    },
+    "addOnsAvailable": ["Late checkout", "Grocery curation", "Private driver"],
+    "featured": true
+  },
+  {
+    "id": "algarve-praia",
+    "slug": "algarve-praia",
+    "name": "Armação Beachfront",
+    "region": "Algarve",
+    "city": "Armação de Pêra",
+    "country": "Portugal",
+    "type": "T2 Beachfront",
+    "capacity": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "highlights": ["Oceanfront balcony", "Steps to sand", "Sunset orientation"],
+    "amenities": ["Pool access", "Beach kit", "Parking", "Chef partnerships", "Smart climate"],
+    "images": [
+      "https://images.unsplash.com/photo-1501117716987-c8e1ecb210af?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469796466635-455ede028aca?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "descriptionShort": "Clean-lined beach apartment designed for slow mornings, barefoot evenings, and discreet service.",
+    "descriptionLong": "Wake to the Atlantic, cook with local produce, and lean on ACE for curated experiences from boat days to sunset tastings. Minimalist interiors keep the focus on the horizon and effortless flow.",
+    "bookingLinks": {
+      "airbnb": "https://www.airbnb.com/",
+      "vrbo": "https://www.vrbo.com/",
+      "direct": "mailto:stay@ace.pt"
+    },
+    "addOnsAvailable": ["Sunset cruise", "Chef at home", "Late checkout"],
+    "featured": true
+  }
+]
